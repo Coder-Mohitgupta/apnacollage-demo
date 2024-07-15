@@ -1,4 +1,5 @@
 # apnacollage-demo
 This is my first git repository
 <br>
-author-mohit gupta
+author-mohit gupta mahavar
+
